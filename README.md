@@ -46,13 +46,15 @@ It highlights how property attributes (room type, host status, location, etc.) i
 ---
 ## 📂 Repository Structure
 Airbnb-Streamlit-Dashboard/
-- │
-- ├── data/                            # Cleaned dataset
-- ├── images/                          # Visuals and exported plots
-- │   └── dashboard_preview.png        # Dashboard preview image
-- ├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
-- ├── dashboard.py                     # Streamlit dashboard code
-- └── README.md                        # Project documentation
+│
+├── data/                            # Cleaned dataset
+├── images/                          # Visuals and exported plots
+│   └── dashboard_preview.png        # Dashboard preview image
+├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
+├── dashboard.py                     # Streamlit dashboard code
+└── README.md                        # Project documentation
+
+--- 
 
 ## 🧭 Dashboard Features
 ✅ Dynamic sidebar filters for exploring listings by:
@@ -79,6 +81,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 
 ```
+---
 
 ## 📊 **Sample Insights**
 
@@ -88,14 +91,15 @@ streamlit run dashboard.py
 
 📍 **Central London listings** show higher price variability than outer boroughs.  
 
+---
 
 ## 🧑‍💻 **Author**
 
 **Prince Obey**  
 _Data Analyst & Aspiring Data Scientist_  
 
-📧 **Email:** (mailto:princeobey97@outlook.com)  
-🌐 **LinkedIn:** (https://www.linkedin.com/in/prince-banatu-b7904b300/)  
+📧 **Email:** mailto:princeobey97@outlook.com
+🌐 **LinkedIn:** https://www.linkedin.com/in/prince-banatu-b7904b300/  
 
 ---
 
