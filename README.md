@@ -10,7 +10,6 @@
 ![Status](https://img.shields.io/badge/Project%20Status-Active-success)
 
 ---
-
 ### ✨ *Turning raw Airbnb data into interactive insights*
 
 <img src="images/dashboard_preview" alt="Dashboard Preview" width="800"/>
@@ -45,7 +44,7 @@ It highlights how property attributes (room type, host status, location, etc.) i
 | **Jupyter Notebook** | Data preparation and exploration |
 
 ---
-
+```
 ## 📂 Repository Structure
 Airbnb-Streamlit-Dashboard/
 │
@@ -54,7 +53,7 @@ Airbnb-Streamlit-Dashboard/
 ├── Airbnb_London_Analysis.ipynb # Jupyter notebook for data cleaning & EDA
 ├── dashboard.py # Streamlit app source code
 └── README.md
-
+```
 ---
 
 ## 🧭 Dashboard Features
