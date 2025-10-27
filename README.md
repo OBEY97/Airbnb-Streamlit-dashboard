@@ -44,19 +44,15 @@ It highlights how property attributes (room type, host status, location, etc.) i
 | **Jupyter Notebook** | Data preparation and exploration |
 
 ---
-
 ## 📂 Repository Structure
-
 Airbnb-Streamlit-Dashboard/
-│
-├── data/                            # Cleaned dataset
-├── images/                          # Visuals and exported plots
-│   └── dashboard_preview.png        # Dashboard preview image
-├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
-├── dashboard.py                     # Streamlit dashboard code
-└── README.md                        # Project documentation
-
----
+- │
+- ├── data/                            # Cleaned dataset
+- ├── images/                          # Visuals and exported plots
+- │   └── dashboard_preview.png        # Dashboard preview image
+- ├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
+- ├── dashboard.py                     # Streamlit dashboard code
+- └── README.md                        # Project documentation
 
 ## 🧭 Dashboard Features
 ✅ Dynamic sidebar filters for exploring listings by:
@@ -98,8 +94,8 @@ streamlit run dashboard.py
 **Prince Obey**  
 _Data Analyst & Aspiring Data Scientist_  
 
-📧 **Email:** [your.email@example.com](mailto:princeobey97@outlook.com)  
-🌐 **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prince-banatu-b7904b300/)  
+📧 **Email:** (mailto:princeobey97@outlook.com)  
+🌐 **LinkedIn:** (https://www.linkedin.com/in/prince-banatu-b7904b300/)  
 
 ---
 
