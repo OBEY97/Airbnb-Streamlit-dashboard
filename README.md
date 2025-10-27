@@ -44,16 +44,18 @@ It highlights how property attributes (room type, host status, location, etc.) i
 | **Jupyter Notebook** | Data preparation and exploration |
 
 ---
-```
+
 ## 📂 Repository Structure
+
 Airbnb-Streamlit-Dashboard/
 │
-├── data/ # (optional) Raw or cleaned data files
-├── images/ # Exported plots and visual assets
-├── Airbnb_London_Analysis.ipynb # Jupyter notebook for data cleaning & EDA
-├── dashboard.py # Streamlit app source code
-└── README.md
-```
+├── data/                            # Cleaned dataset
+├── images/                          # Visuals and exported plots
+│   └── dashboard_preview.png        # Dashboard preview image
+├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
+├── dashboard.py                     # Streamlit dashboard code
+└── README.md                        # Project documentation
+
 ---
 
 ## 🧭 Dashboard Features
@@ -82,24 +84,41 @@ streamlit run dashboard.py
 
 ```
 
-📊 Sample Insights
-💰 Entire homes tend to command higher nightly prices than shared rooms.
-⭐ Superhosts generally maintain better ratings and booking consistency.
-📍 Central London listings show higher price variation and occupancy rates.
+## 📊 **Sample Insights**
+
+💰 **Entire homes** command higher average prices than shared or private rooms.  
+
+⭐ **Superhosts** consistently maintain better ratings and lower churn rates.  
+
+📍 **Central London listings** show higher price variability than outer boroughs.  
 
 
-🧑‍💻 Author
-Prince Banatu
-Data Analyst & Aspiring Data Scientist
-📧 [princeobey97@outlook.com]
-LinkedIn [https://www.linkedin.com/in/prince-banatu-b7904b300/]
+## 🧑‍💻 **Author**
 
+**Prince Obey**  
+_Data Analyst & Aspiring Data Scientist_  
 
-📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+📧 **Email:** [your.email@example.com](mailto:princeobey97@outlook.com)  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prince-banatu-b7904b300/)  
 
+---
 
-✨ Acknowledgements
-Airbnb for the open data
-Streamlit community for inspiration and tutorials
-London Airbnb dataset contributors
+## 📄 **License**
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 **Acknowledgements**
+
+- **Airbnb** for providing open-access listing data  
+- The **Streamlit** community for tutorials and inspiration  
+- **London Airbnb dataset contributors** for maintaining accessible datasets  
+
+---
+
+<div align="center">
+
+> ✨ *“Where data meets design — transforming Airbnb listings into stories worth exploring.”*
+
+</div>
