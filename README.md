@@ -12,7 +12,7 @@
 ---
 ### ✨ *Turning raw Airbnb data into interactive insights*
 
-<img src="images/dashboard_preview" alt="Dashboard Preview" width="800"/>
+<img src="images/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
 
 </div>
 
@@ -47,12 +47,12 @@ It highlights how property attributes (room type, host status, location, etc.) i
 ## 📂 Repository Structure
 Airbnb-Streamlit-Dashboard/
 │
-├── data/                            # Cleaned dataset
-├── images/                          # Visuals and exported plots
-│   └── dashboard_preview.png        # Dashboard preview image
-├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
-├── dashboard.py                     # Streamlit dashboard code
-└── README.md                        # Project documentation
+- ├── data/                            # Cleaned dataset
+- ├── images/                          # Visuals and exported plots
+- │   └── dashboard_preview.png        # Dashboard preview image
+- ├── Airbnb_London_Analysis.ipynb     # Jupyter notebook for EDA
+- ├── dashboard.py                     # Streamlit dashboard code
+- └── README.md                        # Project documentation
 
 --- 
 
@@ -98,7 +98,7 @@ streamlit run dashboard.py
 **Prince Obey**  
 _Data Analyst & Aspiring Data Scientist_  
 
-📧 **Email:** mailto:princeobey97@outlook.com
+📧 **Email:** (mailto:princeobey97@outlook.com)
 🌐 **LinkedIn:** https://www.linkedin.com/in/prince-banatu-b7904b300/  
 
 ---
