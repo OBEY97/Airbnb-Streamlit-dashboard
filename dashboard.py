@@ -21,8 +21,8 @@ if fl is not None:
     st.write(filename)
     df = pd.read_csv(filename)
 else:
-    os.chdir(r'/Users/capt.lilo/Desktop/London-Airbnb-project/STREAMLIT')
-    df = pd.read_csv(r'Cleaned-London-Airbnb-Dataset.csv')
+    #os.chdir(r'/Users/capt.lilo/Desktop/London-Airbnb-project/STREAMLIT')
+    df = pd.read_csv(r'data/Cleaned-London-Airbnb-Dataset.csv')
 
 st.header('Univariate Analysis')
 
