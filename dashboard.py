@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 st.set_page_config(page_title='London Airbnb', page_icon='🏙️ 📊', layout='wide')
 
 st.title('🏙️ 📊 London Airbnb Analysis')
-st.markdown('<style>div.block-container{padding-top:1rem;}</style>', unsafe_allow_html=True)
+st.markdown('<style>div.block-container{padding-top:2rem;}</style>', unsafe_allow_html=True)
 
 
 fl = st.file_uploader(':file_folder: Upload a file', type=(['csv', 'txt', 'xlsx', 'xls']))
